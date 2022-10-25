@@ -9,6 +9,12 @@ Revisar Contenido contenedor
 Aplicacion funcionando:
 > docker run test:1.0
 
-/src # ls
-Dockerfile  Readme.md   main.go     main
+Resultado obtenido ahora:
+>/src # ls
+>Dockerfile  Readme.md   main.go     main
+
+
+Resultado esperado:
+>/src # ls
+> main
 
